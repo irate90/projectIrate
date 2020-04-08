@@ -865,7 +865,7 @@
     "strip-json-comments": "^2.0.1",
     "supports-color": "^4.5.0",
     "svgo": "^0.7.2",
-    "stringstream": "^0.0.5",
+    "stringstream": "^0.0.6",
     "strip-eof": "^1.0.0",
     "sw-precache": "^5.2.0",
     "symbol-observable": "^1.0.4",
