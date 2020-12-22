@@ -618,7 +618,7 @@
     "node-sass": "^4.7.1",
     "node-libs-browser": "^2.0.0",
     "node-int64": "^0.4.0",
-    "node-notifier": "^5.1.2",
+    "node-notifier": "^8.0.1",
     "normalize-package-data": "^2.4.0",
     "node-pre-gyp": "^0.6.39",
     "normalize-path": "^2.1.1",
