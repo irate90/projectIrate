@@ -26,7 +26,7 @@
   },
   "homepage": "https://github.com/Whiskr/whiskr#readme",
   "dependencies": {
-    "axios": "^0.17.1",
+    "axios": "^0.21.1",
     "body-parser": "^1.18.2",
     "chai": "^4.1.2",
     "chai-as-promised": "^7.1.1",
