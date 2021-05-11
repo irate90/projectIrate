@@ -39,7 +39,7 @@
     "http-status-cats": "^1.0.0",
     "imagemin": "^5.3.1",
     "imagemin-webp": "^4.0.0",
-    "lodash": "^4.17.4",
+    "lodash": "^4.17.21",
     "mocha": "^4.0.1",
     "morgan": "^1.9.0",
     "node-sass": "^4.7.2",
