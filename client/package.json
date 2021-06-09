@@ -888,7 +888,7 @@
     "to-fast-properties": "^1.0.3",
     "toposort": "^1.0.6",
     "tmpl": "^1.0.4",
-    "trim-newlines": "^1.0.0",
+    "trim-newlines": "^3.0.1",
     "tree-kill": "^1.2.0",
     "true-case-path": "^1.0.2",
     "tr46": "^0.0.3",
