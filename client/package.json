@@ -383,7 +383,7 @@
     "get-stdin": "^4.0.1",
     "generate-function": "^2.0.0",
     "generate-object-property": "^1.2.0",
-    "glob-parent": "^2.0.0",
+    "glob-parent": "^5.1.2",
     "glob-base": "^0.3.0",
     "glob": "^7.1.2",
     "globals": "^9.18.0",
