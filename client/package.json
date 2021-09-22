@@ -630,7 +630,7 @@
     "number-is-nan": "^1.0.1",
     "npm-run-path": "^2.0.2",
     "npmlog": "^4.1.2",
-    "nth-check": "^1.0.1",
+    "nth-check": "^2.0.1",
     "object-assign": "^4.1.1",
     "num2fraction": "^1.2.2",
     "object-keys": "^1.0.11",
