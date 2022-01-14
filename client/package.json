@@ -611,7 +611,7 @@
     "natural-compare": "^1.4.0",
     "nan": "^2.8.0",
     "ncname": "^1.0.0",
-    "node-forge": "^0.6.33",
+    "node-forge": "^1.0.0",
     "no-case": "^2.3.2",
     "node-gyp": "^3.6.2",
     "node-fetch": "^1.7.3",
