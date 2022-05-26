@@ -329,7 +329,7 @@
     "event-emitter": "^0.3.5",
     "esprima": "^4.0.0",
     "evp_bytestokey": "^1.0.3",
-    "eventsource": "^0.1.6",
+    "eventsource": "^2.0.2",
     "events": "^1.1.1",
     "expand-brackets": "^0.1.5",
     "expand-range": "^1.8.2",
