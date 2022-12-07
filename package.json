@@ -33,7 +33,7 @@
     "compression": "^1.7.1",
     "concurrently": "^3.5.1",
     "connect-session-sequelize": "^5.0.1",
-    "express": "^4.16.2",
+    "express": "^4.17.3",
     "express-session": "^1.15.6",
     "heroku-ssl-redirect": "^0.0.4",
     "http-status-cats": "^1.0.0",
